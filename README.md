@@ -6,12 +6,18 @@ Everything is in one self-contained file, `index.html` (about 8.6 MB). All the i
 
 With reduced motion turned on, the front page appears already printed, with no roller and no fold.
 
-On phones (narrower than 720px) the opening has its own camera. The sheet prints close up, with the camera following the roller down. It unfolds in view, the page is read from the fold to its foot, and the page turns there at reading size, like a page in an e-reader. The skip link and top labels step aside once printing starts. Below the opening, the Work section menu is a single swipeable row, and the Campaigns and Merch galleries are two-up grids. Laptop and tablet widths are unchanged from v1.
+On phones (narrower than 720px) the site is a calmer, leaner edition. Laptop and tablet widths are unchanged from v1.
+
+- **Opening:** a compact front page (masthead, date line, headline, standfirst, one photo and the call to action) lies open and flat, and the roller prints it in one pass. There is no fold, zoom, pan or page turn, and the opening is less than half as long.
+- **Forms, Websites and Decks:** swipeable card rows with shorter text.
+- **Campaigns and Merch:** a few highlights each, with a "See all" button that opens the full gallery.
+- **Trimmed on phones:** the project index, the featured project's numeral and metadata, all but the first paragraph of the editorial, the placeholder lines in Rough copy, and the Available and Terms boxes in Classifieds.
+- **Navigation:** the Work section menu is one swipeable row.
 
 ## Versions
 
 - `v1` (git tag): the print-run opening with the 3D roller printing only the visible half; real projects and People. Also saved as `Kora Kaagaz Broadsheet v1.html` on the Desktop.
-- `main`: v1 plus the phone improvements above.
+- `main`: v1 plus the phone edition above. (Commit a4d5c12 holds an earlier phone attempt that kept the full sequence.)
 
 ## Open it
 
