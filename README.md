@@ -6,6 +6,13 @@ Everything is in one self-contained file, `index.html` (about 8.6 MB). All the i
 
 With reduced motion turned on, the front page appears already printed, with no roller and no fold.
 
+On phones (narrower than 720px) the opening has its own camera. The sheet prints close up, with the camera following the roller down. It unfolds in view, the page is read from the fold to its foot, and the page turns there at reading size, like a page in an e-reader. The skip link and top labels step aside once printing starts. Below the opening, the Work section menu is a single swipeable row, and the Campaigns and Merch galleries are two-up grids. Laptop and tablet widths are unchanged from v1.
+
+## Versions
+
+- `v1` (git tag): the print-run opening with the 3D roller printing only the visible half; real projects and People. Also saved as `Kora Kaagaz Broadsheet v1.html` on the Desktop.
+- `main`: v1 plus the phone improvements above.
+
 ## Open it
 
 Double-click `index.html`, or serve the folder:
