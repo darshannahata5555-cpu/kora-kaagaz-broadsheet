@@ -25,7 +25,7 @@ To publish it, any static host works. On GitHub Pages: Settings → Pages → De
 
 Tap any image to open the full-screen viewer. Use ← → or swipe to browse, and Esc to close. Website cards open the live site in a new tab.
 
-People (P. 06) shows the two people behind the studio, Ashmit and Darshan, with links to their LinkedIn profiles. Still placeholder: the Film image on the Forms page.
+People (P. 06) shows the two people behind the studio, Ashmit Kumar Nayak and Darshan N, with their LinkedIn photos and details and links to their profiles. Still placeholder: the Film image on the Forms page.
 
 ## How the file is built
 
