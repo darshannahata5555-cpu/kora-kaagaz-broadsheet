@@ -1,10 +1,10 @@
 # Kora Kaagaz — The Broadsheet
 
-The Kora Kaagaz studio portfolio, set as a newspaper. It opens on a blank folded sheet (kora kaagaz) with an ink roller resting at its top edge. As you scroll, the roller prints the page: masthead first, then the headline and the start of the article. The paper unfolds onto a blank lower half, and the camera follows a second pass of the roller down the rest of the front page. Then the page turns and the inside pages stack like sheets of paper: Forms, Work, People, Editorial, Rough copy, Classifieds and the Back page.
+The Kora Kaagaz studio portfolio, set as a newspaper. It opens on a printing press with a blank sheet (kora kaagaz) fed into it. As you scroll, the sheet runs up through the press and comes out printed: masthead first, then the headline, the article and the rest of the front page. The press has black cast-iron frames, brass gears that mesh and turn, a steel plate cylinder carrying the page's type in reverse, and an inking roller. Then the press drops away, the whole printed page settles, the page turns, and the inside pages stack like sheets of paper: Forms, Work, People, Editorial, Rough copy, Classifieds and the Back page.
 
 Everything is in one self-contained file, `index.html` (about 8.6 MB). All the images and fonts are embedded in it. React loads from unpkg and the Film photo loads from korakaagaz.co, so it needs an internet connection.
 
-With reduced motion turned on, the front page appears already printed, with no roller and no fold.
+With reduced motion turned on, the front page appears already printed, with no press.
 
 ## Open it
 
